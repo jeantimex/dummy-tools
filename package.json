@@ -1,0 +1,23 @@
+{
+  "name": "dummy-tools",
+  "version": "0.0.0-development",
+  "description": "Just some dummy tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeantimex/dummy-tools.git"
+  },
+  "author": "jeantimex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeantimex/dummy-tools/issues"
+  },
+  "homepage": "https://github.com/jeantimex/dummy-tools#readme",
+  "devDependencies": {
+    "semantic-release": "^17.0.7"
+  }
+}
