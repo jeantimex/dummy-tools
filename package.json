@@ -1,6 +1,6 @@
 {
   "name": "dummy-tools",
-  "version": "0.0.0-semantically-released",
+  "version": "1.0.1",
   "description": "Just some dummy tools",
   "main": "index.js",
   "scripts": {
